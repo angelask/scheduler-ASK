@@ -4,6 +4,10 @@ body {
   line-height: 1;
 }
 
+.row {
+  border: 1px black;
+}
+
 textarea{
   background: transparent;
   border: none;
@@ -29,6 +33,7 @@ textarea{
   text-align: center;
   border-radius: 15px;
 }
+
 
 .row {
   white-space: pre-wrap;
